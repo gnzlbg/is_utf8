@@ -1,0 +1,6 @@
+[package]
+name = "is_utf8"
+version = "0.1.0"
+authors = ["gnzlbg <gonzalobg88@gmail.com>"]
+
+[dependencies]
