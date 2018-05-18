@@ -4,3 +4,7 @@ version = "0.1.0"
 authors = ["gnzlbg <gonzalobg88@gmail.com>"]
 
 [dependencies]
+stdsimd = { git = "https://github.com/rust-lang-nursery/stdsimd.git" }
+
+[dev-dependencies]
+lazy_static = "1.0"
